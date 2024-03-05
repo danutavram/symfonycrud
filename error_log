@@ -1,0 +1,350 @@
+[05-Mar-2024 12:58:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 12:58:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:00:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:00:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:00:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:17 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:02:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:04:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:04:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:04:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:04:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:04:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:04:30 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:04:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:04:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:04:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:09:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:09:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:09:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:09:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:09:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:09:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:09:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:09:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:09:58 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:10:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:10:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:10:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:10:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:10:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:10:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:12:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:12:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:12:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:12:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:12:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:12:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:26:45 UTC] [critical] Fatal Error: Maximum execution time of 30 seconds exceeded
+[05-Mar-2024 13:26:46 UTC] [critical] Uncaught PHP Exception Symfony\Component\ErrorHandler\Error\FatalError: "Error: Maximum execution time of 30 seconds exceeded" at DirectoryResource.php line 69
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\ValidateRequestListener::onKernelRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::setDefaultLocale".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.controller_arguments" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelControllerArguments".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.controller_arguments" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onControllerArguments".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelResponse".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::removeCspHeader".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\DisallowRobotsIndexingListener::onResponse".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelResponse".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelFinishRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::logKernelException".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelException".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onKernelException".
+[05-Mar-2024 13:26:46 UTC] [debug] Listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onKernelException" stopped propagation of the event "kernel.exception".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelResponse".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::removeCspHeader".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\DisallowRobotsIndexingListener::onResponse".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelResponse".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".
+[05-Mar-2024 13:26:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelFinishRequest".
+[05-Mar-2024 13:34:02 UTC] 2024-03-05T13:34:02+00:00 [critical] Uncaught Exception: The configuration key "App\Controller\" is unsupported for definition "App\" in "D:\workspace\my-project/config/services.yaml". Allowed configuration keys are "resource", "namespace", "exclude", "parent", "shared", "lazy", "public", "abstract", "deprecated", "factory", "arguments", "properties", "configurator", "calls", "tags", "autowire", "autoconfigure", "bind", "constructor" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[05-Mar-2024 13:34:03 UTC] 2024-03-05T13:34:03+00:00 [critical] Uncaught Exception: The configuration key "App\Controller\" is unsupported for definition "App\" in "D:\workspace\my-project/config/services.yaml". Allowed configuration keys are "resource", "namespace", "exclude", "parent", "shared", "lazy", "public", "abstract", "deprecated", "factory", "arguments", "properties", "configurator", "calls", "tags", "autowire", "autoconfigure", "bind", "constructor" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[05-Mar-2024 13:34:03 UTC] 2024-03-05T13:34:03+00:00 [critical] Uncaught Exception: The configuration key "App\Controller\" is unsupported for definition "App\" in "D:\workspace\my-project/config/services.yaml". Allowed configuration keys are "resource", "namespace", "exclude", "parent", "shared", "lazy", "public", "abstract", "deprecated", "factory", "arguments", "properties", "configurator", "calls", "tags", "autowire", "autoconfigure", "bind", "constructor" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[05-Mar-2024 13:34:18 UTC] 2024-03-05T13:34:18+00:00 [critical] Uncaught Exception: The configuration key "App\Controller\" is unsupported for definition "App\" in "D:\workspace\my-project/config/services.yaml". Allowed configuration keys are "alias", "parent", "class", "shared", "synthetic", "lazy", "public", "abstract", "deprecated", "factory", "file", "arguments", "properties", "configurator", "calls", "tags", "decorates", "decoration_inner_name", "decoration_priority", "decoration_on_invalid", "autowire", "autoconfigure", "bind", "constructor" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[05-Mar-2024 13:34:19 UTC] 2024-03-05T13:34:19+00:00 [critical] Uncaught Exception: The configuration key "App\Controller\" is unsupported for definition "App\" in "D:\workspace\my-project/config/services.yaml". Allowed configuration keys are "alias", "parent", "class", "shared", "synthetic", "lazy", "public", "abstract", "deprecated", "factory", "file", "arguments", "properties", "configurator", "calls", "tags", "decorates", "decoration_inner_name", "decoration_priority", "decoration_on_invalid", "autowire", "autoconfigure", "bind", "constructor" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[05-Mar-2024 13:34:19 UTC] 2024-03-05T13:34:19+00:00 [critical] Uncaught Exception: The configuration key "App\Controller\" is unsupported for definition "App\" in "D:\workspace\my-project/config/services.yaml". Allowed configuration keys are "alias", "parent", "class", "shared", "synthetic", "lazy", "public", "abstract", "deprecated", "factory", "file", "arguments", "properties", "configurator", "calls", "tags", "decorates", "decoration_inner_name", "decoration_priority", "decoration_on_invalid", "autowire", "autoconfigure", "bind", "constructor" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[05-Mar-2024 13:34:19 UTC] 2024-03-05T13:34:19+00:00 [critical] Uncaught Exception: The configuration key "App\Controller\" is unsupported for definition "App\" in "D:\workspace\my-project/config/services.yaml". Allowed configuration keys are "alias", "parent", "class", "shared", "synthetic", "lazy", "public", "abstract", "deprecated", "factory", "file", "arguments", "properties", "configurator", "calls", "tags", "decorates", "decoration_inner_name", "decoration_priority", "decoration_on_invalid", "autowire", "autoconfigure", "bind", "constructor" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[05-Mar-2024 13:34:19 UTC] 2024-03-05T13:34:19+00:00 [critical] Uncaught Exception: The configuration key "App\Controller\" is unsupported for definition "App\" in "D:\workspace\my-project/config/services.yaml". Allowed configuration keys are "alias", "parent", "class", "shared", "synthetic", "lazy", "public", "abstract", "deprecated", "factory", "file", "arguments", "properties", "configurator", "calls", "tags", "decorates", "decoration_inner_name", "decoration_priority", "decoration_on_invalid", "autowire", "autoconfigure", "bind", "constructor" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[05-Mar-2024 13:37:00 UTC] [critical] Fatal Error: Maximum execution time of 30 seconds exceeded
+[05-Mar-2024 13:37:00 UTC] [critical] Uncaught PHP Exception Symfony\Component\ErrorHandler\Error\FatalError: "Error: Maximum execution time of 30 seconds exceeded" at DirectoryResource.php line 69
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\ValidateRequestListener::onKernelRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::setDefaultLocale".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.controller_arguments" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelControllerArguments".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.controller_arguments" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onControllerArguments".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelResponse".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::removeCspHeader".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\DisallowRobotsIndexingListener::onResponse".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelResponse".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelFinishRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::logKernelException".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelException".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onKernelException".
+[05-Mar-2024 13:37:00 UTC] [debug] Listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onKernelException" stopped propagation of the event "kernel.exception".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelResponse".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::removeCspHeader".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\DisallowRobotsIndexingListener::onResponse".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelResponse".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".
+[05-Mar-2024 13:37:00 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:15 UTC] [critical] Fatal Error: Maximum execution time of 30 seconds exceeded
+[05-Mar-2024 13:38:15 UTC] [critical] Uncaught PHP Exception Symfony\Component\ErrorHandler\Error\FatalError: "Error: Maximum execution time of 30 seconds exceeded" at DirectoryResource.php line 69
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\ValidateRequestListener::onKernelRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::setDefaultLocale".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.controller_arguments" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelControllerArguments".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.controller_arguments" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onControllerArguments".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelResponse".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::removeCspHeader".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\DisallowRobotsIndexingListener::onResponse".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelResponse".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::logKernelException".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelException".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onKernelException".
+[05-Mar-2024 13:38:15 UTC] [debug] Listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onKernelException" stopped propagation of the event "kernel.exception".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelResponse".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::removeCspHeader".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\DisallowRobotsIndexingListener::onResponse".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelResponse".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:15 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:46 UTC] [critical] Fatal Error: Maximum execution time of 30 seconds exceeded
+[05-Mar-2024 13:38:46 UTC] [critical] Uncaught PHP Exception Symfony\Component\ErrorHandler\Error\FatalError: "Error: Maximum execution time of 30 seconds exceeded" at DirectoryResource.php line 69
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\DebugHandlersListener::configure".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\ValidateRequestListener::onKernelRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::setDefaultLocale".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.controller_arguments" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelControllerArguments".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.controller_arguments" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onControllerArguments".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelResponse".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::removeCspHeader".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\DisallowRobotsIndexingListener::onResponse".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelResponse".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::logKernelException".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelException".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.exception" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onKernelException".
+[05-Mar-2024 13:38:46 UTC] [debug] Listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::onKernelException" stopped propagation of the event "kernel.exception".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ResponseListener::onKernelResponse".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\CacheAttributeListener::onKernelResponse".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\ErrorListener::removeCspHeader".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\DisallowRobotsIndexingListener::onResponse".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.response" to listener "Symfony\Component\HttpKernel\EventListener\SessionListener::onKernelResponse".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\RouterListener::onKernelFinishRequest".
+[05-Mar-2024 13:38:46 UTC] [debug] Notified event "kernel.finish_request" to listener "Symfony\Component\HttpKernel\EventListener\LocaleAwareListener::onKernelFinishRequest".
+[05-Mar-2024 13:44:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:44:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:44:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:44:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:44:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:44:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:44:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:44:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:44:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:49:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:49:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 13:49:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:01:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:01:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:01:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:02:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:12:00 UTC] 2024-03-05T14:12:00+00:00 [critical] Uncaught Error: syntax error, unexpected token "}", expecting ";"
+[05-Mar-2024 14:54:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:54:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:54:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:54:55 UTC] [critical] Error thrown while running command "doctrine:database:create". Message: "An exception occurred in the driver: could not find driver"
+[05-Mar-2024 14:55:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:55:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:55:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:55:51 UTC] [critical] Error thrown while running command "doctrine:database:create". Message: "An exception occurred in the driver: could not find driver"
+[05-Mar-2024 14:55:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:55:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:55:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:55:53 UTC] [critical] Error thrown while running command "doctrine:database:create". Message: "An exception occurred in the driver: could not find driver"
+[05-Mar-2024 14:56:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:56:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:56:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:56:51 UTC] [critical] Error thrown while running command "doctrine:database:create". Message: "An exception occurred in the driver: could not find driver"
+[05-Mar-2024 14:58:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:58:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:58:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:58:23 UTC] [critical] Error thrown while running command "doctrine:database:create". Message: "An exception occurred in the driver: could not find driver"
+[05-Mar-2024 14:58:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:58:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:58:57 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 14:58:58 UTC] [critical] Error thrown while running command "doctrine:database:create". Message: "An exception occurred in the driver: could not find driver"
+[05-Mar-2024 15:00:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:00:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:01:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:01:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:03:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:03:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:03:56 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:03:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:13:01 UTC] 2024-03-05T15:13:01+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:13:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:13:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:14:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:14:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:15:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:15:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:15:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:15:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:19:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:19:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:19:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:19:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:20:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:20:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:21:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:21:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:26:20 UTC] 2024-03-05T15:26:20+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:28:49 UTC] 2024-03-05T15:28:49+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:29:19 UTC] 2024-03-05T15:29:19+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:30:34 UTC] 2024-03-05T15:30:34+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:39:03 UTC] 2024-03-05T15:39:03+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:40:08 UTC] 2024-03-05T15:40:08+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:41:49 UTC] 2024-03-05T15:41:49+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:42:25 UTC] 2024-03-05T15:42:25+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:43:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: ext\pdo_mysql.so (The specified module could not be found), ext\php_pdo_mysql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:43:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_pgsql.so' (tried: ext\pdo_pgsql.so (The specified module could not be found), ext\php_pdo_pgsql.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:43:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite.so' (tried: ext\pdo_sqlite.so (The specified module could not be found), ext\php_pdo_sqlite.so.dll (The specified module could not be found)) in Unknown on line 0
+[05-Mar-2024 15:43:20 UTC] [critical] Error thrown while running command "doctrine:schema:update --force". Message: "An exception occurred in the driver: could not find driver"
+[05-Mar-2024 15:43:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:44:42 UTC] 2024-03-05T15:44:42+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:45:21 UTC] 2024-03-05T15:45:21+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:46:23 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:47:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:47:15 UTC] [critical] Error thrown while running command "doctrine:migrations:migrate". Message: "An exception occurred while executing a query: SQLSTATE[HY000]: General error: 1 table user already exists"
+[05-Mar-2024 15:48:55 UTC] 2024-03-05T15:48:55+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:49:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:49:01 UTC] [critical] Error thrown while running command "doctrine:migrations:migrate". Message: "An exception occurred while executing a query: SQLSTATE[HY000]: General error: 1 table user already exists"
+[05-Mar-2024 15:49:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:49:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:49:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:49:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:54:07 UTC] 2024-03-05T15:54:07+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:57:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:58:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 15:58:31 UTC] 2024-03-05T15:58:31+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 15:59:24 UTC] 2024-03-05T15:59:24+00:00 [critical] Uncaught Exception: An exception occurred in the driver: could not find driver
+[05-Mar-2024 16:00:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:00:31 UTC] [critical] Error thrown while running command ""server:stop"". Message: "There are no commands defined in the "server" namespace.
+
+You may be looking for a command provided by the "Debug Bundle" which is currently not installed. Try running "composer require symfony/debug-bundle --dev"."
+[05-Mar-2024 16:00:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:00:31 UTC] [critical] Error thrown while running command ""server:start"". Message: "There are no commands defined in the "server" namespace.
+
+You may be looking for a command provided by the "Debug Bundle" which is currently not installed. Try running "composer require symfony/debug-bundle --dev"."
+[05-Mar-2024 16:00:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:01:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:01:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:01:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:01:10 UTC] [critical] Error thrown while running command ""server:start"". Message: "Command "server:start" is not defined.
+
+Did you mean this?
+    server:dump"
+[05-Mar-2024 16:01:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:01:25 UTC] [critical] Error thrown while running command "server". Message: "Command "server" is not defined.
+
+Did you mean this?
+    server:dump"
+[05-Mar-2024 16:08:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:08:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:09:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:10:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:14:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:16:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:16:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:18:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:18:29 UTC] [critical] Error thrown while running command ""server:status"". Message: "Command "server:status" is not defined.
+
+Did you mean this?
+    server:dump"
+[05-Mar-2024 16:19:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:19:01 UTC] [critical] Error thrown while running command ""server:start"". Message: "Command "server:start" is not defined.
+
+Did you mean this?
+    server:dump"
+[05-Mar-2024 16:19:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:20:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:20:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 16:20:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 17:17:46 UTC] 2024-03-05T17:17:46+00:00 [critical] Uncaught Error: syntax error, unexpected identifier "shuffle", expecting "function" or "const"
+[05-Mar-2024 17:26:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 17:27:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 17:27:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[05-Mar-2024 17:27:03 UTC] 2024-03-05T17:27:03+00:00 [critical] Uncaught Error: syntax error, unexpected token ")", expecting variable
+[05-Mar-2024 17:35:29 UTC] 2024-03-05T17:35:29+00:00 [critical] Uncaught Error: syntax error, unexpected token "{"
+[05-Mar-2024 17:35:29 UTC] 2024-03-05T17:35:29+00:00 [critical] Uncaught Error: syntax error, unexpected token "{"
+[05-Mar-2024 17:35:30 UTC] 2024-03-05T17:35:30+00:00 [critical] Uncaught Error: syntax error, unexpected token "{"
+[05-Mar-2024 17:35:30 UTC] 2024-03-05T17:35:30+00:00 [critical] Uncaught Error: syntax error, unexpected token "{"
+[05-Mar-2024 17:35:30 UTC] 2024-03-05T17:35:30+00:00 [critical] Uncaught Error: syntax error, unexpected token "{"
+[05-Mar-2024 17:35:30 UTC] 2024-03-05T17:35:30+00:00 [critical] Uncaught Error: syntax error, unexpected token "{"
+[05-Mar-2024 17:38:31 UTC] 2024-03-05T17:38:31+00:00 [critical] Uncaught Error: syntax error, unexpected token "{"
