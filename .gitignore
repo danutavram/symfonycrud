@@ -10,3 +10,6 @@
 ###< symfony/framework-bundle ###
 /.env
 /error_log
+/build
+/public/build
+/node_modules

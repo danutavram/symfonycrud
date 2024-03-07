@@ -1,0 +1,5 @@
+[06-Mar-2024 17:29:29 UTC] PHP Fatal error:  Illegal offset type in D:\workspace\my-project\src\Controller\DefaultController.php on line 18
+[06-Mar-2024 17:30:00 UTC] PHP Fatal error:  Illegal offset type in D:\workspace\my-project\src\Controller\DefaultController.php on line 18
+[07-Mar-2024 14:13:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\workspace\my-project\vendor\monolog\monolog\src\Monolog\Handler\AbstractHandler.php on line 25
+[07-Mar-2024 14:34:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\workspace\my-project\vendor\symfony\asset\Package.php on line 24
+[07-Mar-2024 17:34:56 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in D:\workspace\my-project\src\DataFixtures\AppFixtures.php on line 3
