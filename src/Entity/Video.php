@@ -6,23 +6,22 @@ use App\Repository\VideoRepository;
 use Doctrine\ORM\Mapping as ORM;
 
 #[ORM\Entity(repositoryClass: VideoRepository::class)]
-class Video
+class Video extends File
 {
-    #[ORM\Id]
-    #[ORM\GeneratedValue]
-    #[ORM\Column]
-    private ?int $id = null;
+
 
     #[ORM\Column(length: 255)]
     private ?string $title = null;
 
     #[ORM\ManyToOne(inversedBy: 'videos')]
+    #[ORM\JoinColumn(name:'user_id', referencedColumnName:'id', nullable:true, onDelete:"CASCADE")]
     private ?User $user = null;
 
-    public function getId(): ?int
-    {
-        return $this->id;
-    }
+    #[ORM\Column(length: 255)]
+    private ?string $format = null;
+
+    #[ORM\Column]
+    private ?int $duration = null;
 
     public function getTitle(): ?string
     {
@@ -44,6 +43,30 @@ class Video
     public function setUser(?User $user): static
     {
         $this->user = $user;
+
+        return $this;
+    }
+
+    public function getFormat(): ?string
+    {
+        return $this->format;
+    }
+
+    public function setFormat(string $format): static
+    {
+        $this->format = $format;
+
+        return $this;
+    }
+
+    public function getDuration(): ?int
+    {
+        return $this->duration;
+    }
+
+    public function setDuration(int $duration): static
+    {
+        $this->duration = $duration;
 
         return $this;
     }

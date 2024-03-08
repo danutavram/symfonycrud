@@ -2,10 +2,12 @@
 
 namespace App\Controller;
 
+use App\Entity\Address;
 use App\Entity\User;
 use App\Entity\Video;
 use App\Repository\UserRepository;
 use Doctrine\ORM\EntityManagerInterface;
+use Doctrine\Persistence\ManagerRegistry;
 use Symfony\Bundle\FrameworkBundle\Controller\AbstractController;
 use Symfony\Component\HttpFoundation\Response;
 use Symfony\Component\Routing\Annotation\Route;
@@ -13,22 +15,25 @@ use Symfony\Component\Routing\Annotation\Route;
 class DefaultController extends AbstractController
 {
     #[Route('/home', name: 'home')]
-    public function index(UserRepository $userRepository, EntityManagerInterface $entityManager)
+    public function index(UserRepository $userRepository, EntityManagerInterface $entityManager, ManagerRegistry $doctrine)
     {
-        $user = new User();
-        $user->setName('Robert');
+        $entityManager = $doctrine->getManager();
 
-        for ($i = 1; $i <= 3; $i++) {
-            $video = new Video();
-            $video->setTitle('Video Title - ' . $i);
-            $user->addVideo($video);
-        }
+        // $user = new User();
+        // $user->setName('Robert');
 
-        $entityManager->persist($user);
-        $entityManager->flush();
+        // for ($i = 1; $i <= 3; $i++) {
+        //     $video = new Video();
+        //     $video->setTitle('Video title -' . $i);
+        //     $user->addVideo($video);
+        //     $entityManager->persist($video);
+        // }
+        
+        // $entityManager->persist($user);
+        // $entityManager->flush();
+        // $user = $entityManager->getRepository(User::class)->findWithVideos(1);
+        dump('abc123');
 
-        dump('Created a video with the id of ' . $video->getId());
-        dump('Created a user with the id of ' . $user->getId());
 
         return $this->render('default/index.html.twig', [
             'controller_name' => 'DefaultController',

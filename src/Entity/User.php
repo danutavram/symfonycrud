@@ -22,7 +22,7 @@ class User
     #[ORM\Column(length: 255)]
     private ?string $name = null;
 
-    #[ORM\OneToMany(targetEntity: Video::class, mappedBy: 'user', cascade: ['persist'])]
+    #[ORM\OneToMany(targetEntity: Video::class, mappedBy: 'user', orphanRemoval:true)]
     private Collection $videos;
 
     public function __construct()
