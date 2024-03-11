@@ -8,7 +8,7 @@ use Doctrine\ORM\Mapping as ORM;
 use Doctrine\ORM\Mapping\Entity;
 
 #[ORM\Entity(repositoryClass: FileRepository::class)]
-#[ORM\InheritanceType(value: 'SINGLE_TABLE')]
+#[ORM\InheritanceType(value: 'JOINED')]
 #[ORM\DiscriminatorColumn(name: 'type', type: 'string')]
 #[ORM\DiscriminatorMap(['video' => 'Video', 'pdf' => 'Pdf'])]
 
@@ -20,7 +20,7 @@ abstract class File
     private ?int $id = null;
 
     #[ORM\Column(length: 255)]
-    private ?string $filename = null;
+    private ?string $fileName = null;
 
     #[ORM\Column]
     private ?int $size = null;
@@ -36,14 +36,14 @@ abstract class File
         return $this->id;
     }
 
-    public function getFilename(): ?string
+    public function getFileName(): ?string
     {
-        return $this->filename;
+        return $this->fileName;
     }
 
-    public function setFilename(string $filename): static
+    public function setFileName(string $fileName): static
     {
-        $this->filename = $filename;
+        $this->fileName = $fileName;
 
         return $this;
     }

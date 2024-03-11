@@ -25,7 +25,7 @@ class UserRepository extends ServiceEntityRepository
     {
         return $this->createQueryBuilder('u')
             ->innerJoin('u.videos', 'v')
-            // ->addSelect('v') // eager loading
+            ->addSelect('v') // eager loading
             ->andWhere('u.id = :id')
             ->setParameter('id', $id)
             ->getQuery()
