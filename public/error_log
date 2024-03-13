@@ -3,3 +3,141 @@
 [07-Mar-2024 14:13:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\workspace\my-project\vendor\monolog\monolog\src\Monolog\Handler\AbstractHandler.php on line 25
 [07-Mar-2024 14:34:24 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in D:\workspace\my-project\vendor\symfony\asset\Package.php on line 24
 [07-Mar-2024 17:34:56 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in D:\workspace\my-project\src\DataFixtures\AppFixtures.php on line 3
+[11-Mar-2024 20:27:44 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:46 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:46 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:50 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:51 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:51 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:51 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:51 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:6
+Stack trace:
+#0 F:\workspace\my-project\vendor\autoload_runtime.php(9): require()
+#1 F:\workspace\my-project\public\index.php(5): require_once('F:\\workspace\\my...')
+#2 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 6
+[11-Mar-2024 20:27:59 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:27:59 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:5
+Stack trace:
+#0 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:00 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:5
+Stack trace:
+#0 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:00 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:5
+Stack trace:
+#0 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:00 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:5
+Stack trace:
+#0 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:00 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:5
+Stack trace:
+#0 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:01 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:5
+Stack trace:
+#0 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:01 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:5
+Stack trace:
+#0 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:01 UTC] PHP Warning:  require_once(F:\workspace\my-project\public/vendor/autoload.php): Failed to open stream: No such file or directory in F:\workspace\my-project\public\index.php on line 5
+[11-Mar-2024 20:28:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'F:\workspace\my-project\public/vendor/autoload.php' (include_path='.;C:\php\pear') in F:\workspace\my-project\public\index.php:5
+Stack trace:
+#0 {main}
+  thrown in F:\workspace\my-project\public\index.php on line 5
+[12-Mar-2024 17:42:38 UTC] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 24990928 bytes) in F:\workspace\my-project\vendor\symfony\http-kernel\Profiler\FileProfilerStorage.php on line 167
+[12-Mar-2024 17:47:14 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 17:47:22 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 17:47:26 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 17:58:34 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 18:00:06 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 18:00:10 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 18:00:44 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 18:00:45 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 18:00:45 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 18:00:46 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 18:00:46 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 18:00:50 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
+[12-Mar-2024 18:00:50 UTC] PHP Fatal error:  Declaration of Symfony\Bundle\SwiftmailerBundle\DependencyInjection\Configuration::getConfigTreeBuilder() must be compatible with Symfony\Component\Config\Definition\ConfigurationInterface::getConfigTreeBuilder(): Symfony\Component\Config\Definition\Builder\TreeBuilder in F:\workspace\my-project\vendor\symfony\swiftmailer-bundle\DependencyInjection\Configuration.php on line 44
