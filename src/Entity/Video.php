@@ -46,9 +46,16 @@ class Video extends File
     )]
     private ?string $file = null;
 
+    #[ORM\ManyToOne(inversedBy: 'videos')]
+    private ?SecurityUser $securityUser = null;
+
     public function getTitle(): ?string
     {
         return $this->title;
+    }
+    public function __toString(): string
+    {
+        return $this->getTitle(); // Assuming there's a getTitle() method that returns the video title
     }
 
     public function setTitle(string $title): static
@@ -114,6 +121,18 @@ class Video extends File
     public function setFile(string $file): static
     {
         $this->file = $file;
+
+        return $this;
+    }
+
+    public function getSecurityUser(): ?SecurityUser
+    {
+        return $this->securityUser;
+    }
+
+    public function setSecurityUser(?SecurityUser $securityUser): static
+    {
+        $this->securityUser = $securityUser;
 
         return $this;
     }

@@ -33,5 +33,9 @@ endblock %} {% set string = "some string \n from \n database" %} {% block body
   {{ form_widget(form.save) }}
   {{ form_end(form) }} #}
   {# {{ form(form) }} #}
+
+  {% if app.user %}
+  <a href="{{path('logout')}}">logout</a>
+  {% endif %}
 </div>
 {% endblock %}

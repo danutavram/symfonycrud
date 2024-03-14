@@ -1016,3 +1016,295 @@ Did you mean this?
 [12-Mar-2024 19:08:36 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
 [12-Mar-2024 19:08:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
 [13-Mar-2024 09:06:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:11:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:12:11 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:12:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:12:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:14:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:15:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:21:07 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:21:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:21:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:21:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:21:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:21:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:21:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:21:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:21:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:25:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:25:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:25:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:25:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:25:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 10:59:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:03:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:03:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:04:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:04:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:30:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:30:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:30:22 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:30:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:30:35 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:30:38 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:44:56 UTC] 2024-03-13T11:44:56+00:00 [critical] Uncaught Exception: Cannot autowire service "App\Controller\DefaultController": argument "$passwordEncoder" of method "__construct()" has type "Symfony\Component\Security\Core\Encoder\UserPasswordEncoderInterface" but this class was not found.
+[13-Mar-2024 11:45:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:45:16 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:45:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:45:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:45:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:45:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:45:57 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:59:17 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:59:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 11:59:26 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 12:18:27 UTC] 2024-03-13T12:18:27+00:00 [critical] Uncaught Exception: The file "F:\workspace\my-project\config/packages/security.yaml" does not contain valid YAML: A colon cannot be used in an unquoted mapping value at line 22 (near "    check_path: login") in F:\workspace\my-project\config/packages/security.yaml (which is being imported from "F:\workspace\my-project\src\Kernel.php").
+[13-Mar-2024 12:22:04 UTC] 2024-03-13T12:22:04+00:00 [critical] Uncaught Exception: The file "F:\workspace\my-project\config/packages/security.yaml" does not contain valid YAML: A colon cannot be used in an unquoted mapping value at line 22 (near "    check_path: login") in F:\workspace\my-project\config/packages/security.yaml (which is being imported from "F:\workspace\my-project\src\Kernel.php").
+[13-Mar-2024 12:22:38 UTC] 2024-03-13T12:22:38+00:00 [critical] Uncaught Exception: Unrecognized option "csrf_token_generator" under "security.firewalls.main.form_login". Available options are "always_use_default_target_path", "check_path", "csrf_parameter", "csrf_token_id", "default_target_path", "enable_csrf", "failure_forward", "failure_handler", "failure_path", "failure_path_parameter", "form_only", "login_path", "password_parameter", "post_only", "provider", "remember_me", "success_handler", "target_path_parameter", "use_forward", "use_referer", "username_parameter".
+[13-Mar-2024 12:23:06 UTC] 2024-03-13T12:23:06+00:00 [critical] Uncaught Exception: The file "F:\workspace\my-project\config/packages/security.yaml" does not contain valid YAML: A colon cannot be used in an unquoted mapping value at line 22 (near "    check_path: login") in F:\workspace\my-project\config/packages/security.yaml (which is being imported from "F:\workspace\my-project\src\Kernel.php").
+[13-Mar-2024 12:23:10 UTC] 2024-03-13T12:23:10+00:00 [critical] Uncaught Exception: Unrecognized option "csrf_token_generator" under "security.firewalls.main.form_login". Available options are "always_use_default_target_path", "check_path", "csrf_parameter", "csrf_token_id", "default_target_path", "enable_csrf", "failure_forward", "failure_handler", "failure_path", "failure_path_parameter", "form_only", "login_path", "password_parameter", "post_only", "provider", "remember_me", "success_handler", "target_path_parameter", "use_forward", "use_referer", "username_parameter".
+[13-Mar-2024 14:59:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:19:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:20:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:20:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:20:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:20:20 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:21:09 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:21:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:21:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:21:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:43:52 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:48:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:49:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:51:58 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:52:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:53:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:54:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:55:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:55:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:55:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:57:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:58:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 15:58:12 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 17:19:42 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 17:57:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[13-Mar-2024 17:57:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 05:40:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 05:50:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 05:50:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 05:50:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 06:09:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 06:19:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 06:19:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 06:19:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 06:36:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 06:46:32 UTC] 2024-03-14T06:46:32+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:46:33 UTC] 2024-03-14T06:46:33+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:46:59 UTC] 2024-03-14T06:46:59+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:47:02 UTC] 2024-03-14T06:47:02+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:47:02 UTC] 2024-03-14T06:47:02+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:47:03 UTC] 2024-03-14T06:47:03+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:47:24 UTC] 2024-03-14T06:47:24+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:47:25 UTC] 2024-03-14T06:47:25+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:47:26 UTC] 2024-03-14T06:47:26+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:47:26 UTC] 2024-03-14T06:47:26+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:47:26 UTC] 2024-03-14T06:47:26+00:00 [critical] Uncaught Exception: Invalid service "App\Service\DownloadService": class "App\Service\DownloadService" does not exist.
+[14-Mar-2024 06:47:45 UTC] 2024-03-14T06:47:45+00:00 [critical] Uncaught Exception: Invalid service "App\Service\VideoService": class "App\Service\VideoService" does not exist.
+[14-Mar-2024 11:34:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 11:34:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 11:38:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 11:38:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 11:39:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 11:39:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 11:39:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 11:39:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 11:39:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 11:39:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 11:54:08 UTC] 2024-03-14T11:54:08+00:00 [critical] Uncaught Exception: Service "security.firewall.map.context.dev": The index "2" is not in the range [0, 1] of the arguments of class "Symfony\Component\Security\Http\Firewall\ContextListener".
+[14-Mar-2024 11:56:00 UTC] 2024-03-14T11:56:00+00:00 [critical] Uncaught Exception: The file "D:\workspace\my-project/config/services.yaml" does not contain valid YAML: Unable to parse at line 19 (near " App\Security\Voter\VideoVoter:") in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 11:56:03 UTC] 2024-03-14T11:56:03+00:00 [critical] Uncaught Exception: The file "D:\workspace\my-project/config/services.yaml" does not contain valid YAML: Unable to parse at line 19 (near " App\Security\Voter\VideoVoter:") in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 11:56:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 11:56:25 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 12:00:35 UTC] 2024-03-14T12:00:35+00:00 [critical] Uncaught Exception: The file "D:\workspace\my-project/config/services.yaml" does not contain valid YAML: Indentation problem at line 29 (near " App\Security\Voter\VideoVoter:") in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:00:37 UTC] 2024-03-14T12:00:37+00:00 [critical] Uncaught Exception: The file "D:\workspace\my-project/config/services.yaml" does not contain valid YAML: Indentation problem at line 29 (near " App\Security\Voter\VideoVoter:") in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:00:44 UTC] 2024-03-14T12:00:44+00:00 [critical] Uncaught Exception: The file "D:\workspace\my-project/config/services.yaml" does not contain valid YAML: Indentation problem at line 29 (near " App\Security\Voter\VideoVoter:") in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:00:59 UTC] 2024-03-14T12:00:59+00:00 [critical] Uncaught Exception: Invalid service "App\Security\Voter\VideoVoter": class has no constructor.
+[14-Mar-2024 12:02:48 UTC] 2024-03-14T12:02:48+00:00 [critical] Uncaught Exception: Invalid service "App\Controller\DefaultController": method "__construct()" has no argument named "$logger". Check your service definition.
+[14-Mar-2024 12:03:15 UTC] 2024-03-14T12:03:15+00:00 [critical] Uncaught Exception: The configuration key "App\Security\Voter\VideoVoter" is unsupported for definition "App\" in "D:\workspace\my-project/config/services.yaml". Allowed configuration keys are "resource", "namespace", "exclude", "parent", "shared", "lazy", "public", "abstract", "deprecated", "factory", "arguments", "properties", "configurator", "calls", "tags", "autowire", "autoconfigure", "bind", "constructor" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:03:34 UTC] 2024-03-14T12:03:34+00:00 [critical] Uncaught Exception: There is no extension able to load the configuration for "App\Security\Voter\VideoVoter" (in "D:\workspace\my-project/config/services.yaml"). Looked for namespace "App\Security\Voter\VideoVoter", found ""framework", "twig", "twig_extra", "doctrine", "doctrine_migrations", "maker", "monolog", "security", "doctrine_fixtures", "web_profiler"" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:03:47 UTC] 2024-03-14T12:03:47+00:00 [critical] Uncaught Exception: There is no extension able to load the configuration for "App\Security\Voter\VideoVoter" (in "D:\workspace\my-project/config/services.yaml"). Looked for namespace "App\Security\Voter\VideoVoter", found ""framework", "twig", "twig_extra", "doctrine", "doctrine_migrations", "maker", "monolog", "security", "doctrine_fixtures", "web_profiler"" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:04:00 UTC] 2024-03-14T12:04:00+00:00 [critical] Uncaught Exception: The file "D:\workspace\my-project/config/services.yaml" does not contain valid YAML: Indentation problem in "D:\\workspace\\my-project/config/services.yaml" at line 25 (near "    App\:") in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:04:23 UTC] 2024-03-14T12:04:23+00:00 [critical] Uncaught Exception: The file "D:\workspace\my-project/config/services.yaml" does not contain valid YAML: Indentation problem in "D:\\workspace\\my-project/config/services.yaml" at line 25 (near "    App\:") in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:04:25 UTC] 2024-03-14T12:04:25+00:00 [critical] Uncaught Exception: The file "D:\workspace\my-project/config/services.yaml" does not contain valid YAML: Indentation problem in "D:\\workspace\\my-project/config/services.yaml" at line 25 (near "    App\:") in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:05:08 UTC] 2024-03-14T12:05:08+00:00 [critical] Uncaught Exception: Invalid service "App\Security\Voter\VideoVoter": class has no constructor.
+[14-Mar-2024 12:33:08 UTC] 2024-03-14T12:33:08+00:00 [critical] Uncaught Exception: The file "D:\workspace\my-project/config/services.yaml" does not contain valid YAML: Indentation problem in "D:\\workspace\\my-project/config/services.yaml" at line 25 (near "    App\:") in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:33:28 UTC] 2024-03-14T12:33:28+00:00 [critical] Uncaught Exception: There is no extension able to load the configuration for "App\Security\Voter\VideoVoter" (in "D:\workspace\my-project/config/services.yaml"). Looked for namespace "App\Security\Voter\VideoVoter", found ""framework", "twig", "twig_extra", "doctrine", "doctrine_migrations", "maker", "monolog", "security", "doctrine_fixtures", "web_profiler"" in D:\workspace\my-project/config/services.yaml (which is being imported from "D:\workspace\my-project\src\Kernel.php").
+[14-Mar-2024 12:39:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 12:39:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 13:13:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 13:13:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 13:19:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 13:19:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 13:19:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 13:19:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 13:35:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 13:35:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 13:36:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 13:36:51 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 13:37:05 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 13:37:05 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:01:06 UTC] 2024-03-14T14:01:06+00:00 [critical] Uncaught Error: Unclosed '{' on line 13
+[14-Mar-2024 14:07:18 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:07:18 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:07:45 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:07:45 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:08:03 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:08:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:09:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:09:10 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:09:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:09:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:09:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:09:55 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:27:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:27:03 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:27:08 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:27:08 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:30:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:30:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:30:53 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:30:53 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:31:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:31:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:32:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:32:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:32:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:32:46 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:33:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:33:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:33:27 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:33:27 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:36:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:36:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:36:00 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Panther\PantherTestCase" not found in D:\workspace\my-project\tests\DefaultControllerTest.php:7
+Stack trace:
+#0 D:\workspace\my-project\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 D:\workspace\my-project\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('D:\\workspace\\my...')
+#2 D:\workspace\my-project\vendor\phpunit\phpunit\src\Framework\TestSuite.php(397): PHPUnit\Util\FileLoader::checkAndLoad('D:\\workspace\\my...')
+#3 D:\workspace\my-project\vendor\phpunit\phpunit\src\Framework\TestSuite.php(536): PHPUnit\Framework\TestSuite->addTestFile('D:\\workspace\\my...')
+#4 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\TestSuiteMapper.php(67): PHPUnit\Framework\TestSuite->addTestFiles(Array)
+#5 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php(390): PHPUnit\TextUI\TestSuiteMapper->map(Object(PHPUnit\TextUI\XmlConfiguration\TestSuiteCollection), '')
+#6 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php(113): PHPUnit\TextUI\Command->handleArguments(Array)
+#7 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php(98): PHPUnit\TextUI\Command->run(Array, true)
+#8 D:\workspace\my-project\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#9 D:\workspace\my-project\bin\phpunit(10): require('D:\\workspace\\my...')
+#10 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Class "Symfony\Component\Panther\PantherTestCase" not found in D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php:100
+Stack trace:
+#0 D:\workspace\my-project\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 D:\workspace\my-project\bin\phpunit(10): require('D:\\workspace\\my...')
+#2 {main}
+  thrown in D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php on line 100
+[14-Mar-2024 14:36:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:36:15 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:36:15 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Panther\PantherTestCase" not found in D:\workspace\my-project\tests\DefaultControllerTest.php:7
+Stack trace:
+#0 D:\workspace\my-project\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 D:\workspace\my-project\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('D:\\workspace\\my...')
+#2 D:\workspace\my-project\vendor\phpunit\phpunit\src\Framework\TestSuite.php(397): PHPUnit\Util\FileLoader::checkAndLoad('D:\\workspace\\my...')
+#3 D:\workspace\my-project\vendor\phpunit\phpunit\src\Framework\TestSuite.php(536): PHPUnit\Framework\TestSuite->addTestFile('D:\\workspace\\my...')
+#4 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\TestSuiteMapper.php(67): PHPUnit\Framework\TestSuite->addTestFiles(Array)
+#5 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php(390): PHPUnit\TextUI\TestSuiteMapper->map(Object(PHPUnit\TextUI\XmlConfiguration\TestSuiteCollection), '')
+#6 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php(113): PHPUnit\TextUI\Command->handleArguments(Array)
+#7 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php(98): PHPUnit\TextUI\Command->run(Array, true)
+#8 D:\workspace\my-project\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#9 D:\workspace\my-project\bin\phpunit(10): require('D:\\workspace\\my...')
+#10 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Class "Symfony\Component\Panther\PantherTestCase" not found in D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php:100
+Stack trace:
+#0 D:\workspace\my-project\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 D:\workspace\my-project\bin\phpunit(10): require('D:\\workspace\\my...')
+#2 {main}
+  thrown in D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php on line 100
+[14-Mar-2024 14:37:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:37:44 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:39:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:39:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:39:02 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\Panther\PantherTestCase" not found in D:\workspace\my-project\tests\DefaultControllerTest.php:7
+Stack trace:
+#0 D:\workspace\my-project\vendor\phpunit\phpunit\src\Util\FileLoader.php(66): include_once()
+#1 D:\workspace\my-project\vendor\phpunit\phpunit\src\Util\FileLoader.php(49): PHPUnit\Util\FileLoader::load('D:\\workspace\\my...')
+#2 D:\workspace\my-project\vendor\phpunit\phpunit\src\Framework\TestSuite.php(397): PHPUnit\Util\FileLoader::checkAndLoad('D:\\workspace\\my...')
+#3 D:\workspace\my-project\vendor\phpunit\phpunit\src\Framework\TestSuite.php(536): PHPUnit\Framework\TestSuite->addTestFile('D:\\workspace\\my...')
+#4 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\TestSuiteMapper.php(67): PHPUnit\Framework\TestSuite->addTestFiles(Array)
+#5 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php(390): PHPUnit\TextUI\TestSuiteMapper->map(Object(PHPUnit\TextUI\XmlConfiguration\TestSuiteCollection), '')
+#6 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php(113): PHPUnit\TextUI\Command->handleArguments(Array)
+#7 D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php(98): PHPUnit\TextUI\Command->run(Array, true)
+#8 D:\workspace\my-project\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#9 D:\workspace\my-project\bin\phpunit(10): require('D:\\workspace\\my...')
+#10 {main}
+
+Next PHPUnit\TextUI\RuntimeException: Class "Symfony\Component\Panther\PantherTestCase" not found in D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php:100
+Stack trace:
+#0 D:\workspace\my-project\vendor\phpunit\phpunit\phpunit(107): PHPUnit\TextUI\Command::main()
+#1 D:\workspace\my-project\bin\phpunit(10): require('D:\\workspace\\my...')
+#2 {main}
+  thrown in D:\workspace\my-project\vendor\phpunit\phpunit\src\TextUI\Command.php on line 100
+[14-Mar-2024 14:40:54 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:40:54 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:44:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:44:39 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:46:00 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:46:00 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:46:49 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:46:49 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:48:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:48:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:49:14 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:49:14 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:49:19 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:49:19 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:49:37 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:49:37 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:49:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:49:48 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:51:04 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:51:04 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:51:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:51:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:51:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:51:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:51:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:51:47 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:52:33 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:52:33 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:53:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:53:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:53:50 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:53:50 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:54:43 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:54:43 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:54:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:54:56 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:55:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:55:02 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:55:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:55:21 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:55:31 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:55:31 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:55:40 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:55:40 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:55:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:55:59 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:56:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:56:06 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 14:56:13 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 14:56:13 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 16:21:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 16:21:41 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 16:22:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 16:22:01 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
+[14-Mar-2024 16:22:28 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_sqlite3' (tried: ext\pdo_sqlite3 (The specified module could not be found), ext\php_pdo_sqlite3.dll (The specified module could not be found)) in Unknown on line 0
+[14-Mar-2024 16:22:28 UTC] PHP Warning:  Module "pdo_mysql" is already loaded in Unknown on line 0
